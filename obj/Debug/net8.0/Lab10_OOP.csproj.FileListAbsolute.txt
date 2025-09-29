@@ -1,0 +1,14 @@
+D:\Lab10_OOP\bin\Debug\net8.0\Lab10_OOP.exe
+D:\Lab10_OOP\bin\Debug\net8.0\Lab10_OOP.deps.json
+D:\Lab10_OOP\bin\Debug\net8.0\Lab10_OOP.runtimeconfig.json
+D:\Lab10_OOP\bin\Debug\net8.0\Lab10_OOP.dll
+D:\Lab10_OOP\bin\Debug\net8.0\Lab10_OOP.pdb
+D:\Lab10_OOP\obj\Debug\net8.0\Lab10_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab10_OOP\obj\Debug\net8.0\Lab10_OOP.AssemblyInfoInputs.cache
+D:\Lab10_OOP\obj\Debug\net8.0\Lab10_OOP.AssemblyInfo.cs
+D:\Lab10_OOP\obj\Debug\net8.0\Lab10_OOP.csproj.CoreCompileInputs.cache
+D:\Lab10_OOP\obj\Debug\net8.0\Lab10_OOP.dll
+D:\Lab10_OOP\obj\Debug\net8.0\refint\Lab10_OOP.dll
+D:\Lab10_OOP\obj\Debug\net8.0\Lab10_OOP.pdb
+D:\Lab10_OOP\obj\Debug\net8.0\Lab10_OOP.genruntimeconfig.cache
+D:\Lab10_OOP\obj\Debug\net8.0\ref\Lab10_OOP.dll
