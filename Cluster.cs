@@ -21,7 +21,7 @@ namespace Lab10_OOP
             points.Add(p);
         }
 
-        public List<Point> Points { get { return points; } }
+        public List<Point> Points { get { return points; } set { points = value; } }
 
         public override string ToString()
         {

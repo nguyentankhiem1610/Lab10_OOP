@@ -23,12 +23,12 @@ namespace Lab10_OOP
             Console.OutputEncoding = Encoding.UTF8;
 
             List<Point> points = new List<Point>();
-            points.Add(new Point("A", 1, 1));
-            points.Add(new Point("B", 2, 1));
-            points.Add(new Point("C", 5, 4));
-            points.Add(new Point("D", 6, 4));
-            points.Add(new Point("E", 8, 8));
-            points.Add(new Point("F", 9, 8));
+            points.Add(new Point("A", 1, 5));
+            points.Add(new Point("B", 2, 2));
+            points.Add(new Point("C", 6, 4));
+            points.Add(new Point("D", 1, 4));
+            points.Add(new Point("E", 3, 8));
+            points.Add(new Point("F", 9, 2));
 
             Console.WriteLine("Các điểm ban đầu:");
             for (int i = 0; i < points.Count; i++)
@@ -36,11 +36,9 @@ namespace Lab10_OOP
                 Console.WriteLine(points[i]);
             }
 
-            // 2. Tính khoảng cách giữa 2 điểm bất kỳ
             Console.WriteLine("\nKhoảng cách giữa " + points[0] + " và " + points[2] + " = " + points[0].Distance(points[2]));
             Console.WriteLine("\nKhoảng cách giữa " + points[3] + " và " + points[5] + " = " + points[3].Distance(points[5]));
 
-            // 3. Phân cụm phân cấp
             Console.WriteLine("\n--- Bắt đầu phân cụm ---");
             List<Cluster> result = Hierarchical.HierarchicalClustering(points);
 

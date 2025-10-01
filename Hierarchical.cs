@@ -39,8 +39,9 @@ namespace Lab10_OOP
 
                 // gộp cụm
                 Cluster merged = clusters[idx1] + clusters[idx2];
-                Console.WriteLine("Gộp " + clusters[idx1] + " và " + clusters[idx2] + "\n => " + merged +
-                "\n     (khoảng cách = " + minDist + ")");
+
+                Console.WriteLine("Gộp " + clusters[idx1] + " và " + clusters[idx2] + "  (khoảng cách = " + minDist + ") \n => " + merged );
+
 
                 // xóa cụm cũ, thêm cụm mới
                 if (idx1 > idx2)
@@ -54,6 +55,13 @@ namespace Lab10_OOP
                     clusters.RemoveAt(idx1);
                 }
                 clusters.Add(merged);
+
+                Console.WriteLine("Số cụm hiện tại: " + clusters.Count);
+                for (int k = 0; k < clusters.Count; k++)
+                {
+                    Console.WriteLine("  Cụm " + (k + 1) + ": " + clusters[k]);
+                }
+                Console.WriteLine();
             }
 
             return clusters;

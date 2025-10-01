@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{E40720E0-B09F-479E-9265-A14496827871}|Lab10_OOP.csproj|solutionrelative:hierarchical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E40720E0-B09F-479E-9265-A14496827871}|Lab10_OOP.csproj|d:\\lab10_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40720E0-B09F-479E-9265-A14496827871}|Lab10_OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E40720E0-B09F-479E-9265-A14496827871}|Lab10_OOP.csproj|d:\\lab10_oop\\cluster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E40720E0-B09F-479E-9265-A14496827871}|Lab10_OOP.csproj|solutionrelative:cluster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E40720E0-B09F-479E-9265-A14496827871}|Lab10_OOP.csproj|d:\\lab10_oop\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E40720E0-B09F-479E-9265-A14496827871}|Lab10_OOP.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40720E0-B09F-479E-9265-A14496827871}|Lab10_OOP.csproj|d:\\lab10_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40720E0-B09F-479E-9265-A14496827871}|Lab10_OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,27 +30,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Point.cs",
               "DocumentMoniker": "D:\\Lab10_OOP\\Point.cs",
               "RelativeDocumentMoniker": "Point.cs",
               "ToolTip": "D:\\Lab10_OOP\\Point.cs",
               "RelativeToolTip": "Point.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T15:50:02.945Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Cluster.cs",
               "DocumentMoniker": "D:\\Lab10_OOP\\Cluster.cs",
               "RelativeDocumentMoniker": "Cluster.cs",
               "ToolTip": "D:\\Lab10_OOP\\Cluster.cs",
               "RelativeToolTip": "Cluster.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwEMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T15:50:59.032Z",
               "IsPinned": true,
@@ -64,7 +63,7 @@
               "RelativeDocumentMoniker": "Hierarchical.cs",
               "ToolTip": "D:\\Lab10_OOP\\Hierarchical.cs",
               "RelativeToolTip": "Hierarchical.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T15:51:27.898Z",
               "IsPinned": true,
@@ -72,17 +71,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Lab10_OOP\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Lab10_OOP\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T15:33:41.528Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
